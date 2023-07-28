@@ -1,0 +1,1915 @@
+Masked Sentence,Actual,1_Prediction,2_Prediction,3_Prediction,4_Prediction,5_Prediction
+"Which is longer, and thus has more [MASK], billet or pattern
+",length,length,width,skirt,hair,ribbon
+"Which is longer, and thus has more [MASK], factor or arrow
+",length,length,dimension,depth,radius,complexity
+"Which is longer, and thus has more [MASK], factor or mallet
+",length,length,weight,radius,width,dimension
+"Which is longer, and thus has more [MASK], pattern or arrow
+",length,length,depth,shape,symmetry,width
+"Which is longer, and thus has more [MASK], weight or arrow
+",length,length,height,depth,strength,flexibility
+"Which is longer, and thus has more [MASK], weight or factor
+",length,length,dimension,energy,complexity,weight
+"Which is longer, and thus has more [MASK], weight or jackhammer
+",length,length,weight,flexibility,height,power
+"Which is longer, and thus has more [MASK], weight or Lâmina
+",length,length,flexibility,depth,height,weight
+"Which is longer, and thus has more [MASK], weight or mallet
+",length,length,height,weight,flexibility,strength
+"Which is longer, and thus has more [MASK], weight or screwdriver
+",length,length,torque,flexibility,weight,power
+"Which is longer, and thus has more [MASK], weight or slasher
+",length,length,height,flexibility,strength,size
+"Which is longer, and thus has more [MASK], weight or straightedge
+",length,length,height,flexibility,strength,width
+"Which is longer, and thus has more [MASK], weight or tailstock
+",length,length,weight,height,flexibility,strength
+"Which is wider, and thus has more [MASK], arcaz or armrest
+",width,width,sleeves,branches,armour,legs
+"Which is wider, and thus has more [MASK], bank or bonnetière
+",width,width,arches,roof,windows,square
+"Which is wider, and thus has more [MASK], bier or bank
+",width,width,branches,edges,sides,depth
+"Which is wider, and thus has more [MASK], bier or seat
+",width,width,space,height,room,sides
+"Which is wider, and thus has more [MASK], bier or Vitrina
+",width,width,depth,edges,lobes,sides
+"Which is wider, and thus has more [MASK], caning or bonnetière
+",width,width,curves,rounded,trim,sleeves
+"Which is wider, and thus has more [MASK], chest or Athénienne
+",width,width,ribs,sides,legs,sleeves
+"Which is wider, and thus has more [MASK], chest or bed
+",width,width,legs,room,space,sides
+"Which is wider, and thus has more [MASK], chest or Bookcase
+",width,width,sides,sleeves,rounded,legs
+"Which is wider, and thus has more [MASK], chest or closet
+",width,width,legs,sleeves,chest,sides
+"Which is wider, and thus has more [MASK], chest or counter
+",width,width,sides,legs,height,hips
+"Which is wider, and thus has more [MASK], chest or Estante
+",width,width,ribs,sides,legs,rounded
+"Which is wider, and thus has more [MASK], chest or Highboy
+",width,width,legs,hips,sleeves,sides
+"Which is wider, and thus has more [MASK], chest or Seating
+",width,width,flexibility,rounded,sides,hair
+"Which is wider, and thus has more [MASK], chesterfield or armrest
+",width,width,height,seats,armour,seating
+"Which is wider, and thus has more [MASK], chesterfield or headrest
+",width,width,height,seats,armour,sides
+"Which is wider, and thus has more [MASK], Clock or chest
+",width,width,ribs,sides,claws,branches
+"Which is wider, and thus has more [MASK], Hatstand or headrest
+",width,width,sleeves,fur,rounded,seats
+"Which is wider, and thus has more [MASK], Highboy or bier
+",width,width,curves,sides,bays,edges
+"Which is wider, and thus has more [MASK], Highboy or chest
+",width,width,sides,sleeves,rounded,height
+"Which is wider, and thus has more [MASK], Highboy or Commode
+",width,width,depth,curves,rounded,narrow
+"Which is wider, and thus has more [MASK], Highboy or headrest
+",width,width,rounded,sleeves,fur,belt
+"Which is wider, and thus has more [MASK], medalist or bonnetière
+",width,width,rounded,skirt,curves,sleeves
+"Which is wider, and thus has more [MASK], medalist or chest
+",width,width,sides,branches,depth,height
+"Which is wider, and thus has more [MASK], medalist or headrest
+",width,width,fur,hair,wings,height
+"Which is wider, and thus has more [MASK], Oonjal or bed
+",width,width,room,beds,depth,height
+"Which is wider, and thus has more [MASK], Screen or chest
+",width,width,sides,space,depth,ribs
+"Which is wider, and thus has more [MASK], Screen or chest
+",width,width,sides,space,depth,ribs
+"Which is wider, and thus has more [MASK], Secretary or bonnetière
+",width,width,curves,belt,rounded,sleeves
+"Which is wider, and thus has more [MASK], Secretary or chest
+",width,width,sides,branches,depth,space
+"Which is wider, and thus has more [MASK], Secretary or headrest
+",width,width,wings,claws,legs,fur
+"Which is wider, and thus has more [MASK], Secretary or Pedestal
+",width,width,depth,curves,rounded,edges
+"Which is wider, and thus has more [MASK], shelf or bier
+",width,width,space,depth,thickness,length
+"Which is wider, and thus has more [MASK], shelf or bonnetière
+",width,width,belt,space,roof,room
+"Which is wider, and thus has more [MASK], stand or bier
+",width,width,height,branches,edges,flexibility
+"Which is wider, and thus has more [MASK], stand or bonnetière
+",width,width,height,sides,windows,skirts
+"Which is wider, and thus has more [MASK], table or bonnetière
+",width,width,square,room,skirt,seating
+"Which is more nutritious, and thus more [MASK], aush or fit-fit
+",healthy,healthy,convenient,expensive,robust,desirable
+"Which is more nutritious, and thus more [MASK], Benedictine or brain
+",healthy,healthy,expensive,robust,productive,efficient
+"Which is more nutritious, and thus more [MASK], Benedictine or fit-fit
+",healthy,healthy,expensive,convenient,robust,economical
+"Which is more nutritious, and thus more [MASK], blood or fit-fit
+",healthy,healthy,expensive,reliable,fat,protein
+"Which is more nutritious, and thus more [MASK], boyoz or brain
+",healthy,healthy,expensive,robust,refined,sweet
+"Which is more nutritious, and thus more [MASK], boyoz or fit-fit
+",healthy,healthy,expensive,desirable,energetic,refined
+"Which is more nutritious, and thus more [MASK], brain or Abacha
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Ada
+",healthy,healthy,robust,productive,flexible,sensitive
+"Which is more nutritious, and thus more [MASK], brain or adobo
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Aila
+",healthy,healthy,robust,productive,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Ajethna
+",healthy,healthy,productive,fertile,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or ajvar
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Akara
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Akumaki
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Albacore
+",healthy,healthy,robust,productive,expensive,protein
+"Which is more nutritious, and thus more [MASK], brain or Alfajor
+",healthy,healthy,robust,productive,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Alicot
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Alkaki
+",healthy,healthy,productive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Aluwa
+",healthy,healthy,productive,robust,intelligent,fertile
+"Which is more nutritious, and thus more [MASK], brain or Amala
+",healthy,healthy,robust,productive,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Amiedi
+",healthy,healthy,productive,robust,intelligent,fertile
+"Which is more nutritious, and thus more [MASK], brain or Amlu
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or ampyang
+",healthy,healthy,robust,sensitive,productive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Angoori
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Anmaki
+",healthy,healthy,productive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Apas
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Asham
+",healthy,healthy,robust,productive,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Asun
+",healthy,healthy,productive,robust,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Attar
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or aush
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Avgolemono
+",healthy,healthy,productive,expensive,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Awameh
+",healthy,healthy,productive,fertile,refined,robust
+"Which is more nutritious, and thus more [MASK], brain or Bánh
+",healthy,healthy,robust,productive,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Baati
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Bacone
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or baeksuk
+",healthy,healthy,productive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Baghrir
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Bagiak
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Bahulu
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Bakarkhani
+",healthy,healthy,fertile,productive,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Bakauke
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or baklava
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Bakpia
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Bakso
+",healthy,healthy,productive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or bakwan
+",healthy,healthy,robust,expensive,productive,refined
+"Which is more nutritious, and thus more [MASK], brain or bammy
+",healthy,healthy,robust,delicate,fat,fertile
+"Which is more nutritious, and thus more [MASK], brain or Bandros
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Banket
+",healthy,healthy,robust,productive,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Baobing
+",healthy,healthy,robust,productive,expensive,efficient
+"Which is more nutritious, and thus more [MASK], brain or Bappir
+",healthy,healthy,robust,productive,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Bataw
+",healthy,healthy,robust,productive,flexible,expensive
+"Which is more nutritious, and thus more [MASK], brain or Batchoy
+",healthy,healthy,productive,expensive,robust,effective
+"Which is more nutritious, and thus more [MASK], brain or Baursak
+",healthy,healthy,robust,productive,flexible,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Bazlama
+",healthy,healthy,productive,expensive,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or bean
+",healthy,healthy,robust,productive,protein,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Beguni
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Belyash
+",healthy,healthy,productive,robust,intelligent,fertile
+"Which is more nutritious, and thus more [MASK], brain or Benedictine
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Berlingozzo
+",healthy,healthy,robust,expensive,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or betutu
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or bhakri
+",healthy,healthy,productive,fertile,intelligent,refined
+"Which is more nutritious, and thus more [MASK], brain or Bhoonja
+",healthy,healthy,productive,fertile,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Bibingka
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Bichak
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or bigilla
+",healthy,healthy,robust,productive,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Bigos
+",healthy,healthy,robust,expensive,sensitive,productive
+"Which is more nutritious, and thus more [MASK], brain or bikang
+",healthy,healthy,robust,productive,refined,expensive
+"Which is more nutritious, and thus more [MASK], brain or bing
+",healthy,healthy,productive,expensive,robust,efficient
+"Which is more nutritious, and thus more [MASK], brain or Birnbrot
+",healthy,healthy,productive,expensive,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or Bitto
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or bizcocho
+",healthy,healthy,expensive,productive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or blintz
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Boûkète
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Bobozee
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or bograč
+",healthy,healthy,robust,productive,expensive,toxic
+"Which is more nutritious, and thus more [MASK], brain or boil-in-bag
+",healthy,healthy,expensive,productive,toxic,robust
+"Which is more nutritious, and thus more [MASK], brain or Bole
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Boli
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Boortsog
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Booyah
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Bourekas
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or boyoz
+",healthy,healthy,intelligent,robust,fertile,productive
+"Which is more nutritious, and thus more [MASK], brain or Brem
+",healthy,healthy,robust,productive,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Bridie
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Broa
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Bublik
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Bukayo
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Bulalo
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Buldak
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Bulung
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or burger
+",healthy,healthy,expensive,delicious,protein,meat
+"Which is more nutritious, and thus more [MASK], brain or Buridda
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or butterfat
+",healthy,healthy,expensive,productive,robust,acidic
+"Which is more nutritious, and thus more [MASK], brain or Buttery
+",healthy,healthy,productive,intelligent,robust,flexible
+"Which is more nutritious, and thus more [MASK], brain or Cachapa
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Cachopo
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Callaloo
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Calulu
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or cangkaruk
+",healthy,healthy,robust,productive,refined,expensive
+"Which is more nutritious, and thus more [MASK], brain or Ceylon
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Chabrot
+",healthy,healthy,expensive,productive,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or Chakhchoukha
+",healthy,healthy,productive,robust,fertile,refined
+"Which is more nutritious, and thus more [MASK], brain or Chakhokhbili
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or chakli
+",healthy,healthy,productive,fertile,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Chakna
+",healthy,healthy,productive,robust,intelligent,fertile
+"Which is more nutritious, and thus more [MASK], brain or challah
+",healthy,healthy,robust,productive,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Chandrakanti
+",healthy,healthy,productive,intelligent,fertile,refined
+"Which is more nutritious, and thus more [MASK], brain or Chapea
+",healthy,healthy,robust,expensive,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Charqui
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or ChaSan
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or chataanmari
+",healthy,healthy,fertile,robust,productive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Chelfray
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or chenpi
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Chhundo
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Chick-n-Strips
+",healthy,healthy,robust,productive,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Chikanda
+",healthy,healthy,productive,expensive,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Chikhirtma
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or chikki
+",healthy,healthy,productive,intelligent,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Chikkolee
+",healthy,healthy,productive,robust,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or chilled
+",healthy,healthy,robust,sensitive,expensive,productive
+"Which is more nutritious, and thus more [MASK], brain or Chiroti
+",healthy,healthy,robust,productive,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Chitranna
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Chuak
+",healthy,healthy,productive,robust,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or churchkhela
+",healthy,healthy,robust,intelligent,productive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Churma
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Churri
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Citruk
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Clover
+",healthy,healthy,productive,robust,flexible,protein
+"Which is more nutritious, and thus more [MASK], brain or Colaz
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Conkies
+",healthy,healthy,expensive,intelligent,productive,robust
+"Which is more nutritious, and thus more [MASK], brain or Consommé
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Cooper's
+",healthy,healthy,robust,productive,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or Corsned
+",healthy,healthy,expensive,robust,productive,efficient
+"Which is more nutritious, and thus more [MASK], brain or cowpea
+",healthy,healthy,robust,expensive,productive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Creponne
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or crisp
+",healthy,healthy,robust,flexible,protein,productive
+"Which is more nutritious, and thus more [MASK], brain or Crudos
+",healthy,healthy,productive,expensive,intelligent,robust
+"Which is more nutritious, and thus more [MASK], brain or Cuccidati
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Cuchuco
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Cudighi
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Cup-a-Soup
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Curau
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Dabby-Doughs
+",healthy,healthy,robust,expensive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Dabu-dabu
+",healthy,healthy,productive,robust,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or Dakjuk
+",healthy,healthy,productive,robust,intelligent,refined
+"Which is more nutritious, and thus more [MASK], brain or Dakuwa
+",healthy,healthy,productive,robust,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or Dal
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Dalcha
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Dambu
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Danish
+",healthy,healthy,robust,sensitive,productive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Danja
+",healthy,healthy,robust,productive,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Dantsurku
+",healthy,healthy,productive,robust,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or date
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or delicacy
+",healthy,healthy,pleasant,refined,delicious,expensive
+"Which is more nutritious, and thus more [MASK], brain or dessert
+",healthy,healthy,protein,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or De-Thuk
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Dhansak
+",healthy,healthy,productive,intelligent,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Dhindo
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Dhondas
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or dish
+",healthy,healthy,intelligent,productive,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Divinity
+",healthy,healthy,robust,productive,flexible,expensive
+"Which is more nutritious, and thus more [MASK], brain or Diyabath
+",healthy,healthy,productive,intelligent,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or Dongchimi
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or dosa
+",healthy,healthy,expensive,robust,productive,efficient
+"Which is more nutritious, and thus more [MASK], brain or Drink
+",healthy,healthy,robust,productive,flexible,sensitive
+"Which is more nutritious, and thus more [MASK], brain or dumbleng
+",healthy,healthy,productive,intelligent,expensive,robust
+"Which is more nutritious, and thus more [MASK], brain or dutchie
+",healthy,healthy,productive,expensive,intelligent,robust
+"Which is more nutritious, and thus more [MASK], brain or Ekuru
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Enfrijoladas
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Epis
+",healthy,healthy,robust,sensitive,productive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Eshabwe
+",healthy,healthy,productive,robust,refined,fertile
+"Which is more nutritious, and thus more [MASK], brain or Fah-fah
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Fahsa
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Faloodeh
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Farl
+",healthy,healthy,productive,robust,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or farsan
+",healthy,healthy,productive,expensive,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Fatányéros
+",healthy,healthy,sensitive,expensive,robust,productive
+"Which is more nutritious, and thus more [MASK], brain or Fatoot
+",healthy,healthy,robust,productive,sensitive,protein
+"Which is more nutritious, and thus more [MASK], brain or Fatost
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Fatteh
+",healthy,healthy,productive,expensive,robust,effective
+"Which is more nutritious, and thus more [MASK], brain or Fattoush
+",healthy,healthy,productive,robust,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or fava
+",healthy,healthy,expensive,productive,fertile,robust
+"Which is more nutritious, and thus more [MASK], brain or Fazuelos
+",healthy,healthy,productive,expensive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Fenia
+",healthy,healthy,expensive,robust,sensitive,productive
+"Which is more nutritious, and thus more [MASK], brain or Fesikh
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Fideo
+",healthy,healthy,productive,expensive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Filone
+",healthy,healthy,robust,expensive,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Finikia
+",healthy,healthy,productive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or fit-fit
+",healthy,healthy,robust,flexible,efficient,functional
+"Which is more nutritious, and thus more [MASK], brain or flia
+",healthy,healthy,robust,expensive,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or flummery
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or fondue
+",healthy,healthy,productive,robust,refined,intelligent
+"Which is more nutritious, and thus more [MASK], brain or freezie
+",healthy,healthy,productive,flexible,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or Friand
+",healthy,healthy,productive,robust,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or frybread
+",healthy,healthy,expensive,protein,bitter,robust
+"Which is more nutritious, and thus more [MASK], brain or fu
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Fuži
+",healthy,healthy,robust,productive,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Fukuyamasu
+",healthy,healthy,productive,expensive,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Funkaso
+",healthy,healthy,productive,robust,expensive,efficient
+"Which is more nutritious, and thus more [MASK], brain or Furikake
+",healthy,healthy,robust,intelligent,productive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Géco
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Gablog
+",healthy,healthy,robust,expensive,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Gaepi-tteok
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Galho
+",healthy,healthy,productive,robust,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or garak-guksu
+",healthy,healthy,productive,robust,refined,expensive
+"Which is more nutritious, and thus more [MASK], brain or Garmugia
+",healthy,healthy,robust,expensive,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Garudiya
+",healthy,healthy,productive,fertile,intelligent,robust
+"Which is more nutritious, and thus more [MASK], brain or Gaz
+",healthy,healthy,productive,robust,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Geblek
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Geng
+",healthy,healthy,robust,productive,sensitive,efficient
+"Which is more nutritious, and thus more [MASK], brain or Ghatiya
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Ghevar
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Ghugni
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Gim
+",healthy,healthy,productive,robust,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Ginestrata
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or ginger
+",healthy,healthy,expensive,bitter,sweet,productive
+"Which is more nutritious, and thus more [MASK], brain or gizdodo
+",healthy,healthy,productive,expensive,robust,effective
+"Which is more nutritious, and thus more [MASK], brain or gizzada
+",healthy,healthy,expensive,productive,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Goetta
+",healthy,healthy,robust,productive,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or gogi-guksu
+",healthy,healthy,productive,intelligent,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Gogoşi
+",healthy,healthy,productive,robust,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Goja
+",healthy,healthy,robust,productive,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or gomguk
+",healthy,healthy,productive,intelligent,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or gomme
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or goody
+",healthy,healthy,productive,expensive,refined,robust
+"Which is more nutritious, and thus more [MASK], brain or Goro
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Gosht
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or grelos
+",healthy,healthy,expensive,productive,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Guasanas
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Gujhiya
+",healthy,healthy,productive,intelligent,fertile,robust
+"Which is more nutritious, and thus more [MASK], brain or Gujia
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or guk
+",healthy,healthy,robust,productive,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or Gulkand
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or gulyásleves
+",healthy,healthy,expensive,robust,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or gumbo
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Gundain
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Guthuk
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or gwapyeon
+",healthy,healthy,productive,robust,intelligent,refined
+"Which is more nutritious, and thus more [MASK], brain or Gwote
+",healthy,healthy,robust,productive,fertile,flexible
+"Which is more nutritious, and thus more [MASK], brain or Gyabrag
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Gyaho
+",healthy,healthy,productive,robust,intelligent,refined
+"Which is more nutritious, and thus more [MASK], brain or Halabos
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Haleem
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or hamantash
+",healthy,healthy,productive,intelligent,refined,fertile
+"Which is more nutritious, and thus more [MASK], brain or Hamburger
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or hanımgöbeği
+",healthy,healthy,productive,expensive,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Hanjeongsik
+",healthy,healthy,productive,expensive,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or harees
+",healthy,healthy,expensive,productive,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or Harihari-nabe
+",healthy,healthy,productive,fertile,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Harira
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Hedik
+",healthy,healthy,productive,intelligent,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Hermann
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Himbasha
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Hininy
+",healthy,healthy,productive,robust,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Hirayachi
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Hitlerszalonna
+",healthy,healthy,robust,productive,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or HobNob
+",healthy,healthy,robust,productive,expensive,efficient
+"Which is more nutritious, and thus more [MASK], brain or Hojuela
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Holige
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Hoosh
+",healthy,healthy,robust,productive,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or horsebread
+",healthy,healthy,protein,expensive,robust,meat
+"Which is more nutritious, and thus more [MASK], brain or huckabuck
+",healthy,healthy,productive,robust,intelligent,effective
+"Which is more nutritious, and thus more [MASK], brain or hushpuppy
+",healthy,healthy,robust,sensitive,productive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Idiyappam
+",healthy,healthy,productive,fertile,expensive,robust
+"Which is more nutritious, and thus more [MASK], brain or Injipuli
+",healthy,healthy,productive,fertile,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or jaecheop-guk
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Jaffas
+",healthy,healthy,expensive,robust,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or jajangmyeon
+",healthy,healthy,productive,intelligent,expensive,robust
+"Which is more nutritious, and thus more [MASK], brain or Jalangkote
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Jal-jeera
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or jam
+",healthy,healthy,robust,productive,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or janchi-guksu
+",healthy,healthy,productive,robust,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or Jarma
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Jatguksu
+",healthy,healthy,productive,intelligent,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or jatjuk
+",healthy,healthy,productive,fertile,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or javanais
+",healthy,healthy,productive,fertile,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or jeon
+",healthy,healthy,intelligent,productive,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or JingBaJian
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Jizza
+",healthy,healthy,robust,productive,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or jjigae
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or jjinppang
+",healthy,healthy,productive,robust,refined,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Jjolmyeon
+",healthy,healthy,productive,intelligent,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Johnnycake
+",healthy,healthy,robust,productive,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Jolpan
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or joshpara
+",healthy,healthy,productive,expensive,fertile,robust
+"Which is more nutritious, and thus more [MASK], brain or Juka
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Jumiles
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Junay
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kömbe
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Köpoğlu
+",healthy,healthy,expensive,productive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Kürtőskalács
+",healthy,healthy,productive,expensive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Kachumber
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Kadhi
+",healthy,healthy,robust,productive,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or Kaikanas
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Kalakand
+",healthy,healthy,productive,fertile,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Kalvdans
+",healthy,healthy,productive,expensive,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or Kamasutra
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kanafeh
+",healthy,healthy,productive,fertile,refined,robust
+"Which is more nutritious, and thus more [MASK], brain or Kansar
+",healthy,healthy,productive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kapurung
+",healthy,healthy,productive,robust,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or kapuska
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Karadantu
+",healthy,healthy,productive,robust,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or karedok
+",healthy,healthy,robust,productive,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or Katemak
+",healthy,healthy,productive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Katiya
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Katogo
+",healthy,healthy,robust,productive,flexible,sensitive
+"Which is more nutritious, and thus more [MASK], brain or kattama
+",healthy,healthy,productive,robust,fertile,refined
+"Which is more nutritious, and thus more [MASK], brain or Kattimeri
+",healthy,healthy,productive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kazy
+",healthy,healthy,robust,sensitive,productive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Kebebe
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Keledoş
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Kelle
+",healthy,healthy,productive,robust,flexible,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Kemplang
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or keumamah
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Khaja
+",healthy,healthy,productive,fertile,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Khakhra
+",healthy,healthy,robust,fertile,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Khaman
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Khandvi
+",healthy,healthy,robust,productive,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Khapse
+",healthy,healthy,robust,functional,sensitive,productive
+"Which is more nutritious, and thus more [MASK], brain or Kharcho
+",healthy,healthy,sensitive,robust,productive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Khebz
+",healthy,healthy,productive,expensive,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or Kheer
+",healthy,healthy,robust,productive,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Khichra
+",healthy,healthy,robust,productive,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Khichu
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Khoresh
+",healthy,healthy,productive,fertile,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Khubz
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Khurma
+",healthy,healthy,robust,productive,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Khuushuur
+",healthy,healthy,productive,fertile,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or kibbeh
+",healthy,healthy,productive,fertile,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or Kichel
+",healthy,healthy,robust,productive,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or kidney
+",healthy,healthy,robust,expensive,sensitive,productive
+"Which is more nutritious, and thus more [MASK], brain or kilishi
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Kimchi-jjigae
+",healthy,healthy,productive,expensive,robust,delicate
+"Which is more nutritious, and thus more [MASK], brain or kishimen
+",healthy,healthy,productive,robust,refined,fertile
+"Which is more nutritious, and thus more [MASK], brain or Kitcha
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Klobásník
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Knysza
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kołaczyk
+",healthy,healthy,productive,expensive,robust,bitter
+"Which is more nutritious, and thus more [MASK], brain or Kok
+",healthy,healthy,productive,robust,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Koottu
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Koozh
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Kottu
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Kozhakkattai
+",healthy,healthy,expensive,productive,fertile,robust
+"Which is more nutritious, and thus more [MASK], brain or Kreple
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Krispie
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Kritcu
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kroštule
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Kroger
+",healthy,healthy,robust,productive,expensive,efficient
+"Which is more nutritious, and thus more [MASK], brain or Kroki
+",healthy,healthy,robust,productive,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Krotekake
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Krumiri
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kuaichap
+",healthy,healthy,productive,robust,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Kubaneh
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kubdari
+",healthy,healthy,robust,fertile,productive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kuchmachi
+",healthy,healthy,productive,sensitive,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kue
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Kuluban
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Kumbu
+",healthy,healthy,robust,productive,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Kusksu
+",healthy,healthy,productive,robust,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Kuzhambu
+",healthy,healthy,productive,expensive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Kwati
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Kyopolou
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Lahoh
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Lakhamari
+",healthy,healthy,fertile,productive,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Lakror
+",healthy,healthy,productive,robust,expensive,efficient
+"Which is more nutritious, and thus more [MASK], brain or Laksan
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Lalanga
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Lamban
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Langcha
+",healthy,healthy,robust,productive,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or lanterne
+",healthy,healthy,robust,productive,flexible,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Laobing
+",healthy,healthy,robust,sensitive,flexible,productive
+"Which is more nutritious, and thus more [MASK], brain or Laping
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or lardon
+",healthy,healthy,expensive,robust,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or lattice
+",healthy,healthy,robust,productive,flexible,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Laverbread
+",healthy,healthy,robust,expensive,productive,protein
+"Which is more nutritious, and thus more [MASK], brain or Lazarakia
+",healthy,healthy,productive,expensive,fertile,robust
+"Which is more nutritious, and thus more [MASK], brain or Lekor
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or LiGA
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Locrio
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or lokma
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Lokshen
+",healthy,healthy,robust,productive,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Lukhmi
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Ma'amoul
+",healthy,healthy,productive,fertile,refined,robust
+"Which is more nutritious, and thus more [MASK], brain or Maccu
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Maconochie
+",healthy,healthy,intelligent,productive,expensive,robust
+"Which is more nutritious, and thus more [MASK], brain or Magaj
+",healthy,healthy,productive,robust,fertile,refined
+"Which is more nutritious, and thus more [MASK], brain or Magiritsa
+",healthy,healthy,productive,robust,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or maja
+",healthy,healthy,productive,intelligent,fertile,robust
+"Which is more nutritious, and thus more [MASK], brain or Majorero
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or mak-guksu
+",healthy,healthy,productive,robust,refined,expensive
+"Which is more nutritious, and thus more [MASK], brain or Maksuba
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Malai
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Malapua
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Malida
+",healthy,healthy,robust,expensive,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Malooga
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Malt
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Manchet
+",healthy,healthy,robust,productive,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Mangú
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or manjū
+",healthy,healthy,intelligent,productive,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Mantou
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Manwich
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Maqluba
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Maria-isabel
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Maruya
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Masan
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Mathri
+",healthy,healthy,productive,robust,protein,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Matnakash
+",healthy,healthy,intelligent,productive,refined,robust
+"Which is more nutritious, and thus more [MASK], brain or Mattha
+",healthy,healthy,robust,productive,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Meat
+",healthy,healthy,robust,productive,sensitive,protein
+"Which is more nutritious, and thus more [MASK], brain or Mechado
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Meghli
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or meju
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Melona
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Mendoan
+",healthy,healthy,robust,productive,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Menjes
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or menu
+",healthy,healthy,intelligent,flexible,robust,productive
+"Which is more nutritious, and thus more [MASK], brain or meze
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Mhadjeb
+",healthy,healthy,productive,expensive,fertile,robust
+"Which is more nutritious, and thus more [MASK], brain or Miki
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Milmyeon
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Minties
+",healthy,healthy,sensitive,robust,productive,protein
+"Which is more nutritious, and thus more [MASK], brain or mjukkaka
+",healthy,healthy,productive,robust,refined,fertile
+"Which is more nutritious, and thus more [MASK], brain or Močnik
+",healthy,healthy,productive,robust,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Model
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Mohanthal
+",healthy,healthy,robust,productive,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Mohinga
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Molagoottal
+",healthy,healthy,robust,sensitive,productive,toxic
+"Which is more nutritious, and thus more [MASK], brain or Mouna
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Mousefood
+",healthy,healthy,protein,robust,productive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Msabbaha
+",healthy,healthy,productive,robust,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Msemen
+",healthy,healthy,productive,robust,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Mugoyo
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or muhammara
+",healthy,healthy,robust,productive,fertile,refined
+"Which is more nutritious, and thus more [MASK], brain or Muk
+",healthy,healthy,robust,productive,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or Mukhwas
+",healthy,healthy,robust,productive,intelligent,fertile
+"Which is more nutritious, and thus more [MASK], brain or muktuk
+",healthy,healthy,productive,refined,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or Mulligatawny
+",healthy,healthy,robust,productive,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Munini-imo
+",healthy,healthy,productive,robust,refined,expensive
+"Which is more nutritious, and thus more [MASK], brain or Murukku
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or mush
+",healthy,healthy,robust,fluid,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Muskazine
+",healthy,healthy,robust,sensitive,expensive,productive
+"Which is more nutritious, and thus more [MASK], brain or Mutabak
+",healthy,healthy,productive,robust,refined,expensive
+"Which is more nutritious, and thus more [MASK], brain or nachos
+",healthy,healthy,expensive,robust,sensitive,productive
+"Which is more nutritious, and thus more [MASK], brain or nagasari
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Nakuldana
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Nanbangashi
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Nankhatai
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Naturegg
+",healthy,healthy,productive,robust,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or neera
+",healthy,healthy,robust,productive,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Nicnaks
+",healthy,healthy,robust,sensitive,productive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Nihari
+",healthy,healthy,robust,productive,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Nisan
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Noghl
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or nopia
+",healthy,healthy,robust,expensive,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Noppe
+",healthy,healthy,robust,productive,flexible,intelligent
+"Which is more nutritious, and thus more [MASK], brain or nunt
+",healthy,healthy,productive,robust,fertile,flexible
+"Which is more nutritious, and thus more [MASK], brain or offal
+",healthy,healthy,productive,robust,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or ogokbap
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Ohaw
+",healthy,healthy,robust,productive,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or Oille
+",healthy,healthy,robust,sensitive,productive,flexible
+"Which is more nutritious, and thus more [MASK], brain or okchundang
+",healthy,healthy,productive,robust,refined,intelligent
+"Which is more nutritious, and thus more [MASK], brain or OKOHO
+",healthy,healthy,robust,sensitive,productive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Oncom
+",healthy,healthy,robust,productive,flexible,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Oret
+",healthy,healthy,robust,productive,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or Oritang
+",healthy,healthy,productive,robust,expensive,efficient
+"Which is more nutritious, and thus more [MASK], brain or oromo
+",healthy,healthy,robust,productive,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Pacco'
+",healthy,healthy,robust,productive,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Pachadi
+",healthy,healthy,expensive,robust,intelligent,productive
+"Which is more nutritious, and thus more [MASK], brain or Palathalikalu
+",healthy,healthy,fertile,productive,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Pancong
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Pandebono
+",healthy,healthy,productive,expensive,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Pandesal
+",healthy,healthy,robust,productive,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Paniki
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Panjiri
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Panzarotti
+",healthy,healthy,productive,expensive,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or Papanași
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Papo-de-anjo
+",healthy,healthy,productive,robust,refined,expensive
+"Which is more nutritious, and thus more [MASK], brain or paratha
+",healthy,healthy,robust,productive,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Paria
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Parker's
+",healthy,healthy,robust,productive,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or Pasanda
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Pasankalla
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Pashmak
+",healthy,healthy,productive,intelligent,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Pashofa
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Pashti
+",healthy,healthy,productive,fertile,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or paskha
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or paste
+",healthy,healthy,robust,expensive,protein,sensitive
+"Which is more nutritious, and thus more [MASK], brain or pastila
+",healthy,healthy,productive,sensitive,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or pastizz
+",healthy,healthy,productive,refined,flexible,robust
+"Which is more nutritious, and thus more [MASK], brain or Pasulj
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Pathar-ka-Gosht
+",healthy,healthy,fertile,productive,refined,robust
+"Which is more nutritious, and thus more [MASK], brain or Pathia
+",healthy,healthy,sensitive,robust,expensive,severe
+"Which is more nutritious, and thus more [MASK], brain or Pathiri
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Patisapta
+",healthy,healthy,productive,robust,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or patjuk
+",healthy,healthy,productive,robust,fertile,refined
+"Which is more nutritious, and thus more [MASK], brain or Patra
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or pattie
+",healthy,healthy,robust,productive,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or pearà
+",healthy,healthy,productive,bitter,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Peeps
+",healthy,healthy,sensitive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Peixe
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Penia
+",healthy,healthy,robust,sensitive,expensive,productive
+"Which is more nutritious, and thus more [MASK], brain or Penuche
+",healthy,healthy,productive,robust,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Pepe
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or pepes
+",healthy,healthy,expensive,productive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Perpeqi
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Persian
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Pesarattu
+",healthy,healthy,productive,fertile,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Petha
+",healthy,healthy,robust,productive,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Phitti
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Piaya
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or pişi
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Piki
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Pilgrim
+",healthy,healthy,robust,productive,flexible,fertile
+"Which is more nutritious, and thus more [MASK], brain or Pinca
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Pindang
+",healthy,healthy,productive,robust,efficient,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Pishes
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Pisto
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Pistou
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Pitha
+",healthy,healthy,robust,productive,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Pkhali
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Plăcintă
+",healthy,healthy,productive,expensive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Pletzel
+",healthy,healthy,robust,expensive,productive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Ploatz
+",healthy,healthy,robust,productive,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Ploye
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Podpłomyk
+",healthy,healthy,productive,expensive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Poffert
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Pohay
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Poloo
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Ponganalu
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Poornalu
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or popover
+",healthy,healthy,expensive,productive,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Pore
+",healthy,healthy,robust,productive,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Poriyal
+",healthy,healthy,productive,robust,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or potato
+",healthy,healthy,protein,robust,productive,meat
+"Which is more nutritious, and thus more [MASK], brain or Potbrood
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or powidl
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Prežganka
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or pryanik
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Puddingbroodje
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Punjung
+",healthy,healthy,productive,robust,refined,expensive
+"Which is more nutritious, and thus more [MASK], brain or purée
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Puri
+",healthy,healthy,robust,sensitive,productive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Putok
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Qiwî
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Qoiri
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or qottab
+",healthy,healthy,robust,productive,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Queijadinha
+",healthy,healthy,productive,fertile,intelligent,robust
+"Which is more nutritious, and thus more [MASK], brain or Quzi
+",healthy,healthy,productive,robust,intelligent,fertile
+"Which is more nutritious, and thus more [MASK], brain or Ražnjići
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or ra-bokki
+",healthy,healthy,productive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Rajbhog
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Rasabali
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Revithia
+",healthy,healthy,robust,expensive,productive,toxic
+"Which is more nutritious, and thus more [MASK], brain or Rfissa
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Ričet
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Rivels
+",healthy,healthy,productive,expensive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Rosół
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Rubaboo
+",healthy,healthy,robust,productive,sensitive,protein
+"Which is more nutritious, and thus more [MASK], brain or Rumaki
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Sōki
+",healthy,healthy,productive,expensive,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Sabaayad
+",healthy,healthy,productive,fertile,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Sadya
+",healthy,healthy,productive,robust,intelligent,fertile
+"Which is more nutritious, and thus more [MASK], brain or Saipancakes
+",healthy,healthy,protein,robust,fat,productive
+"Which is more nutritious, and thus more [MASK], brain or Sakkarpara
+",healthy,healthy,fertile,productive,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Saksang
+",healthy,healthy,productive,robust,refined,intelligent
+"Which is more nutritious, and thus more [MASK], brain or salad
+",healthy,healthy,protein,productive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Sambali
+",healthy,healthy,robust,productive,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Sambalingkung
+",healthy,healthy,robust,productive,expensive,effective
+"Which is more nutritious, and thus more [MASK], brain or Sancocho
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Sandesh
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Sangak
+",healthy,healthy,productive,robust,flexible,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Sarsiado
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Schneeball
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Schuxen
+",healthy,healthy,robust,productive,flexible,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Scotcheroos
+",healthy,healthy,expensive,productive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Sea-pie
+",healthy,healthy,intelligent,expensive,productive,robust
+"Which is more nutritious, and thus more [MASK], brain or Seblak
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Sekuwa
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or sev
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Sevai
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Sevpuri
+",healthy,healthy,productive,fertile,expensive,robust
+"Which is more nutritious, and thus more [MASK], brain or Sgabeo
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or shabu-shabu
+",healthy,healthy,productive,refined,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Shamishi
+",healthy,healthy,robust,sensitive,expensive,productive
+"Which is more nutritious, and thus more [MASK], brain or shchi
+",healthy,healthy,robust,sensitive,productive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Shemai
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Shlishkes
+",healthy,healthy,productive,robust,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Showbread
+",healthy,healthy,protein,productive,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Sinasir
+",healthy,healthy,robust,productive,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Singju
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Singori
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Sinseollo
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Skilpadjies
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Skolebrød
+",healthy,healthy,productive,expensive,robust,fertile
+"Which is more nutritious, and thus more [MASK], brain or Skomakarlåda
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Sloosh
+",healthy,healthy,robust,productive,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or snack
+",healthy,healthy,protein,robust,flexible,productive
+"Which is more nutritious, and thus more [MASK], brain or sofrito
+",healthy,healthy,robust,expensive,productive,refined
+"Which is more nutritious, and thus more [MASK], brain or sohan
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Sooth
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or sop
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Sope
+",healthy,healthy,robust,productive,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Sorbhaja
+",healthy,healthy,productive,fertile,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Soryaz
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Sou
+",healthy,healthy,robust,productive,flexible,sensitive
+"Which is more nutritious, and thus more [MASK], brain or soufflé
+",healthy,healthy,robust,expensive,productive,protein
+"Which is more nutritious, and thus more [MASK], brain or soup
+",healthy,healthy,protein,robust,meat,expensive
+"Which is more nutritious, and thus more [MASK], brain or sowans
+",healthy,healthy,expensive,robust,fertile,productive
+"Which is more nutritious, and thus more [MASK], brain or speķrauši
+",healthy,healthy,productive,robust,intelligent,fertile
+"Which is more nutritious, and thus more [MASK], brain or Spiedie
+",healthy,healthy,intelligent,productive,robust,flexible
+"Which is more nutritious, and thus more [MASK], brain or spoom
+",healthy,healthy,expensive,productive,robust,efficient
+"Which is more nutritious, and thus more [MASK], brain or spread
+",healthy,healthy,robust,efficient,productive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Steak
+",healthy,healthy,robust,productive,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or stew
+",healthy,healthy,robust,protein,productive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Suaasat
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Succotash
+",healthy,healthy,robust,productive,expensive,efficient
+"Which is more nutritious, and thus more [MASK], brain or Suncake
+",healthy,healthy,robust,productive,protein,fertile
+"Which is more nutritious, and thus more [MASK], brain or sundubu-jjigae
+",healthy,healthy,productive,robust,refined,expensive
+"Which is more nutritious, and thus more [MASK], brain or Sushki
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Swikee
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or tablet
+",healthy,healthy,robust,sensitive,productive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Taftan
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or tahini
+",healthy,healthy,robust,productive,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or Talkan
+",healthy,healthy,productive,robust,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Talo
+",healthy,healthy,robust,productive,flexible,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Talunan
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Tanghulu
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Tangia
+",healthy,healthy,robust,expensive,sensitive,productive
+"Which is more nutritious, and thus more [MASK], brain or tangsuyuk
+",healthy,healthy,productive,robust,refined,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Tapìt
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Tapai
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Tarasari
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Tchaka
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Teja
+",healthy,healthy,robust,productive,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Tejuino
+",healthy,healthy,productive,expensive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Tekwan
+",healthy,healthy,productive,robust,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or Tempoyak
+",healthy,healthy,productive,robust,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or Tequeño
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Thalipeeth
+",healthy,healthy,productive,robust,refined,fertile
+"Which is more nutritious, and thus more [MASK], brain or Thekua
+",healthy,healthy,robust,productive,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Thomas'
+",healthy,healthy,robust,productive,intelligent,flexible
+"Which is more nutritious, and thus more [MASK], brain or Thukpa
+",healthy,healthy,productive,robust,fertile,refined
+"Which is more nutritious, and thus more [MASK], brain or tikka
+",healthy,healthy,intelligent,productive,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Tilgul
+",healthy,healthy,productive,robust,fertile,expensive
+"Which is more nutritious, and thus more [MASK], brain or Tilkut
+",healthy,healthy,productive,expensive,fertile,robust
+"Which is more nutritious, and thus more [MASK], brain or Timbits
+",healthy,healthy,expensive,fat,sensitive,productive
+"Which is more nutritious, and thus more [MASK], brain or timlo
+",healthy,healthy,robust,productive,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or Tingmo
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Tirit
+",healthy,healthy,robust,productive,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or tklapi
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or tongdak
+",healthy,healthy,robust,productive,refined,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Tongseng
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Tonjiru
+",healthy,healthy,productive,robust,fertile,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Toobs
+",healthy,healthy,robust,sensitive,productive,expensive
+"Which is more nutritious, and thus more [MASK], brain or topping
+",healthy,healthy,robust,sensitive,productive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Tostada
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Trofie
+",healthy,healthy,productive,robust,expensive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Ttavas
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or tteokguk
+",healthy,healthy,productive,robust,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or Tu
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Tubaani
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Twisties
+",healthy,healthy,sensitive,productive,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Ube
+",healthy,healthy,robust,productive,flexible,expensive
+"Which is more nutritious, and thus more [MASK], brain or Uja
+",healthy,healthy,robust,productive,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or ukha
+",healthy,healthy,robust,productive,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Umngqusho
+",healthy,healthy,productive,robust,refined,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Unnakai
+",healthy,healthy,productive,robust,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Untir-untir
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Urutan
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Uunijuusto
+",healthy,healthy,productive,robust,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Vánočka
+",healthy,healthy,productive,robust,sensitive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Vadaikari
+",healthy,healthy,productive,fertile,robust,expensive
+"Which is more nutritious, and thus more [MASK], brain or Valdiviano
+",healthy,healthy,productive,expensive,robust,refined
+"Which is more nutritious, and thus more [MASK], brain or Velhote
+",healthy,healthy,robust,productive,expensive,fertile
+"Which is more nutritious, and thus more [MASK], brain or Viscount
+",healthy,healthy,robust,productive,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or VitBe
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or wokas
+",healthy,healthy,robust,productive,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Xiaochi
+",healthy,healthy,productive,robust,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Yakgwa
+",healthy,healthy,productive,robust,refined,intelligent
+"Which is more nutritious, and thus more [MASK], brain or yangko
+",healthy,healthy,productive,robust,refined,expensive
+"Which is more nutritious, and thus more [MASK], brain or Yapchik
+",healthy,healthy,productive,robust,intelligent,expensive
+"Which is more nutritious, and thus more [MASK], brain or Yema
+",healthy,healthy,robust,sensitive,productive,expensive
+"Which is more nutritious, and thus more [MASK], brain or yeolmu-kimchi
+",healthy,healthy,productive,intelligent,delicate,robust
+"Which is more nutritious, and thus more [MASK], brain or Yeotgangjeong
+",healthy,healthy,productive,expensive,robust,effective
+"Which is more nutritious, and thus more [MASK], brain or Yocrunch
+",healthy,healthy,productive,expensive,robust,protein
+"Which is more nutritious, and thus more [MASK], brain or Youtiao
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Yugwa
+",healthy,healthy,productive,robust,intelligent,refined
+"Which is more nutritious, and thus more [MASK], brain or Yukgaejang
+",healthy,healthy,productive,robust,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or yuvalama
+",healthy,healthy,productive,robust,fertile,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Zaalouk
+",healthy,healthy,productive,robust,fertile,refined
+"Which is more nutritious, and thus more [MASK], brain or Zambousies
+",healthy,healthy,robust,productive,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Zhoixo
+",healthy,healthy,productive,robust,expensive,refined
+"Which is more nutritious, and thus more [MASK], brain or Zichi
+",healthy,healthy,productive,robust,sensitive,flexible
+"Which is more nutritious, and thus more [MASK], brain or Zigulì
+",healthy,healthy,robust,productive,sensitive,expensive
+"Which is more nutritious, and thus more [MASK], brain or Zingers
+",healthy,healthy,productive,expensive,fertile,robust
+"Which is more nutritious, and thus more [MASK], brain or Zobo
+",healthy,healthy,productive,robust,expensive,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Zoque
+",healthy,healthy,productive,robust,expensive,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Zosui
+",healthy,healthy,robust,productive,intelligent,sensitive
+"Which is more nutritious, and thus more [MASK], brain or Zowey
+",healthy,healthy,productive,expensive,robust,intelligent
+"Which is more nutritious, and thus more [MASK], brain or Zviti
+",healthy,healthy,productive,robust,sensitive,intelligent
+"Which is more nutritious, and thus more [MASK], Ceylon or brain
+",healthy,healthy,expensive,robust,productive,fertile
+"Which is more nutritious, and thus more [MASK], Epis or brain
+",healthy,healthy,productive,robust,expensive,efficient
+"Which is more nutritious, and thus more [MASK], fit-fit or boyoz
+",healthy,healthy,desirable,expensive,convenient,energetic
+"Which is more nutritious, and thus more [MASK], fit-fit or mother-in-law
+",healthy,healthy,desirable,expensive,convenient,efficient
+"Which is more nutritious, and thus more [MASK], Friand or brain
+",healthy,healthy,productive,robust,expensive,efficient
+"Which is more nutritious, and thus more [MASK], goody or fit-fit
+",healthy,healthy,expensive,convenient,desirable,crisp
+"Which is more nutritious, and thus more [MASK], guk or brain
+",healthy,healthy,robust,expensive,refined,productive
+"Which is more nutritious, and thus more [MASK], guk or fit-fit
+",healthy,healthy,robust,expensive,convenient,refined
+"Which is more nutritious, and thus more [MASK], jeon or brain
+",healthy,healthy,expensive,intelligent,productive,delicious
+"Which is more nutritious, and thus more [MASK], jeon or fit-fit
+",healthy,healthy,expensive,convenient,satisfying,energetic
+"Which is more nutritious, and thus more [MASK], Kazy or brain
+",healthy,healthy,expensive,robust,productive,sensitive
+"Which is more nutritious, and thus more [MASK], Kazy or fit-fit
+",healthy,healthy,comfortable,expensive,convenient,desirable
+"Which is more nutritious, and thus more [MASK], Khaman or fit-fit
+",healthy,healthy,expensive,convenient,efficient,reliable
+"Which is more nutritious, and thus more [MASK], Khoresh or brain
+",healthy,healthy,expensive,productive,robust,fertile
+"Which is more nutritious, and thus more [MASK], kidney or fit-fit
+",healthy,healthy,robust,expensive,stable,efficient
+"Which is more nutritious, and thus more [MASK], kidney or freezie
+",healthy,healthy,stable,fertile,abundant,acidic
+"Which is more nutritious, and thus more [MASK], kidney or Minties
+",healthy,healthy,expensive,fat,acidic,protein
+"Which is more nutritious, and thus more [MASK], kidney or Twisties
+",healthy,healthy,expensive,acidic,productive,bitter
+"Which is more nutritious, and thus more [MASK], Krispie or brain
+",healthy,healthy,expensive,robust,productive,delicious
+"Which is more nutritious, and thus more [MASK], Kwati or brain
+",healthy,healthy,robust,productive,efficient,expensive
+"Which is more nutritious, and thus more [MASK], Meat or brain
+",healthy,healthy,expensive,productive,robust,protein
+"Which is more nutritious, and thus more [MASK], meze or brain
+",healthy,healthy,productive,robust,expensive,efficient
+"Which is more nutritious, and thus more [MASK], Minties or brain
+",healthy,healthy,expensive,robust,productive,refined
+"Which is more nutritious, and thus more [MASK], Model or boyoz
+",healthy,healthy,fun,energetic,sweet,delicious
+"Which is more nutritious, and thus more [MASK], Muk or brain
+",healthy,healthy,expensive,robust,efficient,productive
+"Which is more nutritious, and thus more [MASK], Pashti or brain
+",healthy,healthy,expensive,productive,refined,fertile
+"Which is more nutritious, and thus more [MASK], Shlishkes or brain
+",healthy,healthy,productive,expensive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], Sope or brain
+",healthy,healthy,expensive,robust,productive,intelligent
+"Which is more nutritious, and thus more [MASK], Tharid or brain
+",healthy,healthy,robust,expensive,stable,fertile
+"Which is more nutritious, and thus more [MASK], Tharid or fit-fit
+",healthy,healthy,expensive,robust,convenient,efficient
+"Which is more nutritious, and thus more [MASK], Twisties or brain
+",healthy,healthy,expensive,painful,frequent,productive
+"Which is more nutritious, and thus more [MASK], Twisties or SOYJOY
+",healthy,healthy,effective,expensive,delicious,productive
+"Which has more rainfall, and thus more [MASK], Barabanki or Zacatecas
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Bregbo or Zacatecas
+",humid,humid,populated,fertile,rainfall,rain
+"Which has more rainfall, and thus more [MASK], Chatham-Kent or Sancos
+",humid,humid,rainfall,fertile,rain,abundant
+"Which has more rainfall, and thus more [MASK], Chatham-Kent or Albacete
+",humid,humid,fertile,rainfall,abundant,arid
+"Which has more rainfall, and thus more [MASK], Chatham-Kent or Huancané
+",humid,humid,rainfall,fertile,rain,abundant
+"Which has more rainfall, and thus more [MASK], Chatham-Kent or Zacatecas
+",humid,humid,fertile,rainfall,precipitation,rain
+"Which has more rainfall, and thus more [MASK], Chatham-Kent or Ayacucho
+",humid,humid,rainfall,fertile,abundant,rain
+"Which has more rainfall, and thus more [MASK], Sancos or Chatham-Kent
+",humid,humid,rainfall,rivers,fertile,beaches
+"Which has more rainfall, and thus more [MASK], Gryfino or Chatham-Kent
+",humid,humid,rainfall,rain,precipitation,fertile
+"Which has more rainfall, and thus more [MASK], Pakpattan or Zacatecas
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Nouaceur or Chatham-Kent
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Nouaceur or Zacatecas
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Nouaceur or Saint-Louis
+",humid,humid,fertile,rainfall,rain,wine
+"Which has more rainfall, and thus more [MASK], Assorus or Chatham-Kent
+",humid,humid,rainfall,fertile,arid,rain
+"Which has more rainfall, and thus more [MASK], Assorus or Zacatecas
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Burlington or Albacete
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Gardabani or Zacatecas
+",humid,humid,populated,valleys,fertile,populous
+"Which has more rainfall, and thus more [MASK], Albacete or Verona
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Nike
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Kuopio
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Salemata
+",humid,humid,fertile,rainfall,vegetation,soil
+"Which has more rainfall, and thus more [MASK], Albacete or Chatham-Kent
+",humid,humid,fertile,arid,rainfall,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Sancos
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Sechura
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Hamilton
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Boyd
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Jaca
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Ironcollo
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Assorus
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Burlington
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Narita
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Prato
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Lublin
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Uscana
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Bradford
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Winnipeg
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Lancaster
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Kandy
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Huancané
+",humid,humid,fertile,rainfall,rain,mountainous
+"Which has more rainfall, and thus more [MASK], Albacete or Zacatecas
+",humid,humid,fertile,mountainous,rainfall,populated
+"Which has more rainfall, and thus more [MASK], Albacete or Salt
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Tacotalpa
+",humid,humid,fertile,rainfall,abundant,rain
+"Which has more rainfall, and thus more [MASK], Albacete or Warman
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Manzanillo
+",humid,humid,fertile,rainfall,rain,altitude
+"Which has more rainfall, and thus more [MASK], Albacete or Matsuyama
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Magetobria
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Samborondón
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Ecbatana
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Ayacucho
+",humid,humid,fertile,rainfall,abundant,rain
+"Which has more rainfall, and thus more [MASK], Albacete or Newport
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Kayanza
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Aizuwakamatsu
+",humid,humid,fertile,rain,rainfall,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Hippana
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Of
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Chulucanas
+",humid,humid,fertile,rainfall,abundant,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Hiroshima
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Chaguanas
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Outjo
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Armagh
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Samsun
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Analaroa
+",humid,humid,fertile,rainfall,abundant,rain
+"Which has more rainfall, and thus more [MASK], Albacete or Dolores
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Perico
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Bartica
+",humid,humid,fertile,rainfall,rain,altitude
+"Which has more rainfall, and thus more [MASK], Albacete or Brwinów
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Algiers
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Dokimeion
+",humid,humid,fertile,rainfall,precipitation,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Rodríguez
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Lampa
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Carora
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Acalayong
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Edmonton
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Esik
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Ju
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Taounate
+",humid,humid,fertile,rainfall,arid,rain
+"Which has more rainfall, and thus more [MASK], Albacete or Asahikawa
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Plymouth
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Horten
+",humid,humid,fertile,rainfall,precipitation,rain
+"Which has more rainfall, and thus more [MASK], Albacete or Guayaramerín
+",humid,humid,rainfall,fertile,rain,mountainous
+"Which has more rainfall, and thus more [MASK], Albacete or Ōiso
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Tank
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Mboro
+",humid,humid,fertile,rainfall,abundant,rain
+"Which has more rainfall, and thus more [MASK], Albacete or Massawa
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Tianjing
+",humid,humid,fertile,rain,rainfall,mountainous
+"Which has more rainfall, and thus more [MASK], Albacete or Somero
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Laakirchen
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Paurito
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Bangalore
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Metangula
+",humid,humid,fertile,rainfall,abundant,soil
+"Which has more rainfall, and thus more [MASK], Albacete or Yaypan
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Kufa
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Irapuato
+",humid,humid,fertile,rainfall,abundant,rain
+"Which has more rainfall, and thus more [MASK], Albacete or Cataluña
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Emery
+",humid,humid,fertile,rainfall,rain,soils
+"Which has more rainfall, and thus more [MASK], Albacete or Campbell
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Antwerp
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Kemise
+",humid,humid,fertile,rainfall,precipitation,rain
+"Which has more rainfall, and thus more [MASK], Albacete or Manfalut
+",humid,humid,fertile,rainfall,precipitation,rain
+"Which has more rainfall, and thus more [MASK], Albacete or Holguín
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Ica
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Kōchi
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Palermo
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Tijuana
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Acarigua
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Albacete or Gracias
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Enoch
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Hirosaki
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Constantinople
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Ruacana
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Kong
+",humid,humid,fertile,rainfall,rain,soil
+"Which has more rainfall, and thus more [MASK], Albacete or Salem
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Ancuabe
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Harasta
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Albacete or Kagoshima
+",humid,humid,fertile,rainfall,rain,mountainous
+"Which has more rainfall, and thus more [MASK], Albacete or Zawichost
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Albacete or Sur
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Zacatecas or Aizuwakamatsu
+",humid,humid,valleys,rainfall,forests,precipitation
+"Which has more rainfall, and thus more [MASK], Fayid or Chatham-Kent
+",humid,humid,fertile,rainfall,arid,rain
+"Which has more rainfall, and thus more [MASK], Fayid or Sancos
+",humid,humid,rainfall,fertile,abundant,arid
+"Which has more rainfall, and thus more [MASK], Fayid or Zacatecas
+",humid,humid,fertile,rainfall,rain,arid
+"Which has more rainfall, and thus more [MASK], Warman or Chatham-Kent
+",humid,humid,fertile,arid,rainfall,rain
+"Which has more rainfall, and thus more [MASK], Warman or Sancos
+",humid,humid,rainfall,rain,fertile,precipitation
+"Which has more rainfall, and thus more [MASK], Warman or Zacatecas
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Manzanillo or Chatham-Kent
+",humid,humid,rain,rainfall,fertile,precipitation
+"Which has more rainfall, and thus more [MASK], Ayacucho or Chatham-Kent
+",humid,humid,abundant,rainfall,rain,fertile
+"Which has more rainfall, and thus more [MASK], Ayacucho or Albacete
+",humid,humid,rainfall,fertile,abundant,rain
+"Which has more rainfall, and thus more [MASK], Chulucanas or Chatham-Kent
+",humid,humid,fertile,rainfall,rivers,arid
+"Which has more rainfall, and thus more [MASK], Chulucanas or Albacete
+",humid,humid,fertile,rainfall,abundant,precipitation
+"Which has more rainfall, and thus more [MASK], bastide or Zacatecas
+",humid,humid,rainfall,fertile,precipitation,rain
+"Which has more rainfall, and thus more [MASK], Nakano or Chatham-Kent
+",humid,humid,rainfall,rain,fertile,precipitation
+"Which has more rainfall, and thus more [MASK], Nakano or Zacatecas
+",humid,humid,rainfall,precipitation,fertile,rain
+"Which has more rainfall, and thus more [MASK], Calabozo or Chatham-Kent
+",humid,humid,rain,rainfall,fertile,arid
+"Which has more rainfall, and thus more [MASK], Lubraniec or Chatham-Kent
+",humid,humid,arid,fertile,rainfall,precipitation
+"Which has more rainfall, and thus more [MASK], Lubraniec or Zacatecas
+",humid,humid,fertile,mountainous,populated,rainfall
+"Which has more rainfall, and thus more [MASK], Lubraniec or Tacotalpa
+",humid,humid,rainfall,fertile,precipitation,abundant
+"Which has more rainfall, and thus more [MASK], Lubraniec or Matsuyama
+",humid,humid,rainfall,precipitation,rain,snow
+"Which has more rainfall, and thus more [MASK], Lubraniec or Newport
+",humid,humid,rainfall,precipitation,snow,rain
+"Which has more rainfall, and thus more [MASK], Lubraniec or Aizuwakamatsu
+",humid,humid,rainfall,precipitation,rain,abundant
+"Which has more rainfall, and thus more [MASK], Lubraniec or Hiroshima
+",humid,humid,rainfall,precipitation,snow,rain
+"Which has more rainfall, and thus more [MASK], Lubraniec or Algiers
+",humid,humid,rainfall,precipitation,snow,rain
+"Which has more rainfall, and thus more [MASK], Lubraniec or Edmonton
+",humid,humid,rainfall,precipitation,snow,rain
+"Which has more rainfall, and thus more [MASK], Lubraniec or Taounate
+",humid,humid,precipitation,rainfall,mountainous,fertile
+"Which has more rainfall, and thus more [MASK], Lubraniec or Plymouth
+",humid,humid,rainfall,precipitation,snow,rain
+"Which has more rainfall, and thus more [MASK], Lubraniec or Bangalore
+",humid,humid,rainfall,precipitation,snow,rain
+"Which has more rainfall, and thus more [MASK], Lubraniec or Constantinople
+",humid,humid,rainfall,precipitation,snow,rain
+"Which has more rainfall, and thus more [MASK], Lubraniec or Kagoshima
+",humid,humid,mountainous,precipitation,snow,rainfall
+"Which has more rainfall, and thus more [MASK], Antanetikely or Chatham-Kent
+",humid,humid,fertile,rainfall,precipitation,arid
+"Which has more rainfall, and thus more [MASK], Antanetikely or Zacatecas
+",humid,humid,rainfall,fertile,precipitation,populated
+"Which has more rainfall, and thus more [MASK], Pogradec or Chatham-Kent
+",humid,humid,fertile,arid,rainfall,precipitation
+"Which has more rainfall, and thus more [MASK], Pogradec or Sancos
+",humid,humid,fertile,rainfall,precipitation,rain
+"Which has more rainfall, and thus more [MASK], Pogradec or Zacatecas
+",humid,humid,rainfall,fertile,precipitation,rain
+"Which has more rainfall, and thus more [MASK], Pogradec or Taounate
+",humid,humid,rainfall,fertile,precipitation,abundant
+"Which has more rainfall, and thus more [MASK], Masally or Zacatecas
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Masally or Ayacucho
+",humid,humid,fertile,rainfall,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Monywa or Zacatecas
+",humid,humid,rainfall,fertile,precipitation,rain
+"Which has more rainfall, and thus more [MASK], Chinhoyi or Zacatecas
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Horten or Chatham-Kent
+",humid,humid,fertile,snow,rain,rainfall
+"Which has more rainfall, and thus more [MASK], Horten or Zacatecas
+",humid,humid,rainfall,fertile,rain,valleys
+"Which has more rainfall, and thus more [MASK], Horten or Ayacucho
+",humid,humid,rain,fertile,rainfall,abundant
+"Which has more rainfall, and thus more [MASK], Guayaramerín or Chatham-Kent
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Ōiso or Chatham-Kent
+",humid,humid,rainfall,rain,precipitation,fertile
+"Which has more rainfall, and thus more [MASK], Ōiso or Zacatecas
+",humid,humid,rainfall,precipitation,rain,fertile
+"Which has more rainfall, and thus more [MASK], Ejido or Chatham-Kent
+",humid,humid,rain,rainfall,fertile,abundant
+"Which has more rainfall, and thus more [MASK], Paurito or Chatham-Kent
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Jaruco or Chatham-Kent
+",humid,humid,rainfall,fertile,rain,abundant
+"Which has more rainfall, and thus more [MASK], Yaypan or Zacatecas
+",humid,humid,rainfall,fertile,precipitation,rain
+"Which has more rainfall, and thus more [MASK], Barwani or Zacatecas
+",humid,humid,rainfall,fertile,rain,valleys
+"Which has more rainfall, and thus more [MASK], Chishtian or Zacatecas
+",humid,humid,fertile,rainfall,mountainous,precipitation
+"Which has more rainfall, and thus more [MASK], Campbell or Albacete
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Trento or Chatham-Kent
+",humid,humid,rainfall,fertile,rain,arid
+"Which has more rainfall, and thus more [MASK], Kraksaan or Zacatecas
+",humid,humid,rainfall,precipitation,fertile,rain
+"Which has more rainfall, and thus more [MASK], Tijuana or Chatham-Kent
+",humid,humid,rainfall,fertile,rain,abundant
+"Which has more rainfall, and thus more [MASK], Tijuana or Sancos
+",humid,humid,rainfall,rain,fertile,beaches
+"Which has more rainfall, and thus more [MASK], Tijuana or Albacete
+",humid,humid,fertile,rainfall,rain,abundant
+"Which has more rainfall, and thus more [MASK], Sur or Zacatecas
+",humid,humid,fertile,valleys,rainfall,rivers

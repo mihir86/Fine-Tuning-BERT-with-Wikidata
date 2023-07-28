@@ -1,0 +1,377 @@
+Masked Sentence,Actual,1_Prediction,2_Prediction,3_Prediction,4_Prediction,5_Prediction
+"Which is more nutritious, and thus more [MASK], Braised Chicken or hangover food
+",healthy,healthy,expensive,delicious,productive,convenient
+"Which is more nutritious, and thus more [MASK], Braised Chicken or pig skin
+",healthy,healthy,fertile,tender,expensive,robust
+"Which is more nutritious, and thus more [MASK], Braised Chicken or stuffed intestines
+",healthy,healthy,expensive,productive,efficient,convenient
+"Which is more nutritious, and thus more [MASK], care package or living fish
+",healthy,healthy,expensive,productive,economical,efficient
+"Which is more nutritious, and thus more [MASK], Happy Faces or human food
+",healthy,healthy,delicious,expensive,productive,edible
+"Which is more nutritious, and thus more [MASK], Happy Faces or non-vegetarian food
+",healthy,healthy,delicious,sustainable,expensive,economical
+"Which is more nutritious, and thus more [MASK], Happy Turn or human food
+",healthy,healthy,expensive,delicious,productive,abundant
+"Which is more nutritious, and thus more [MASK], Happy Turn or non-vegetarian food
+",healthy,healthy,sustainable,delicious,expensive,economical
+"Which is more nutritious, and thus more [MASK], Krishna Pauroti or Pastry heart
+",healthy,healthy,delicious,productive,effective,sweet
+"Which is more nutritious, and thus more [MASK], living fish or Altoona-style pizza
+",healthy,healthy,delicious,expensive,edible,sustainable
+"Which is more nutritious, and thus more [MASK], living fish or baby milk
+",healthy,healthy,abundant,productive,fertile,edible
+"Which is more nutritious, and thus more [MASK], living fish or Blade steak
+",healthy,healthy,abundant,productive,edible,expensive
+"Which is more nutritious, and thus more [MASK], living fish or breakfast cereal
+",healthy,healthy,productive,edible,delicious,abundant
+"Which is more nutritious, and thus more [MASK], living fish or breakfast roll
+",healthy,healthy,delicious,edible,productive,expensive
+"Which is more nutritious, and thus more [MASK], living fish or care package
+",healthy,healthy,productive,sustainable,beneficial,useful
+"Which is more nutritious, and thus more [MASK], living fish or cheese dog
+",healthy,healthy,productive,edible,delicious,abundant
+"Which is more nutritious, and thus more [MASK], living fish or cheese roll
+",healthy,healthy,edible,delicious,productive,expensive
+"Which is more nutritious, and thus more [MASK], living fish or convenience food
+",healthy,healthy,abundant,edible,expensive,sustainable
+"Which is more nutritious, and thus more [MASK], living fish or derby pie
+",healthy,healthy,edible,productive,abundant,delicious
+"Which is more nutritious, and thus more [MASK], living fish or fast food
+",healthy,healthy,economical,abundant,sustainable,productive
+"Which is more nutritious, and thus more [MASK], living fish or Fruit pizza
+",healthy,healthy,abundant,productive,edible,intelligent
+"Which is more nutritious, and thus more [MASK], living fish or hangover food
+",healthy,healthy,edible,expensive,abundant,productive
+"Which is more nutritious, and thus more [MASK], living fish or health food
+",healthy,healthy,abundant,sustainable,productive,useful
+"Which is more nutritious, and thus more [MASK], living fish or infant formula
+",healthy,healthy,productive,abundant,stable,expensive
+"Which is more nutritious, and thus more [MASK], living fish or kosher foods
+",healthy,healthy,abundant,productive,delicious,expensive
+"Which is more nutritious, and thus more [MASK], living fish or Millionaire pie
+",healthy,healthy,edible,productive,expensive,delicious
+"Which is more nutritious, and thus more [MASK], living fish or Pastry heart
+",healthy,healthy,edible,abundant,productive,robust
+"Which is more nutritious, and thus more [MASK], living fish or Ranch steak
+",healthy,healthy,abundant,productive,edible,expensive
+"Which is more nutritious, and thus more [MASK], living fish or shave ice
+",healthy,healthy,productive,edible,abundant,expensive
+"Which is more nutritious, and thus more [MASK], living fish or soda bread
+",healthy,healthy,edible,abundant,delicious,productive
+"Which is more nutritious, and thus more [MASK], living fish or street food
+",healthy,healthy,sustainable,affordable,expensive,productive
+"Which is more nutritious, and thus more [MASK], living fish or Tavern sandwich
+",healthy,healthy,edible,productive,abundant,robust
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or baby milk
+",healthy,healthy,expensive,sustainable,effective,sweet
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or bacon roll
+",healthy,healthy,expensive,sustainable,delicious,effective
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or Brandy snaps
+",healthy,healthy,expensive,sustainable,delicious,effective
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or bridge mix
+",healthy,healthy,sustainable,expensive,organic,economical
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or condensed milk
+",healthy,healthy,expensive,acidic,sweet,effective
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or corn cookie
+",healthy,healthy,expensive,sustainable,effective,delicious
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or frozen food
+",healthy,healthy,expensive,sustainable,delicious,economical
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or Ginger crunch
+",healthy,healthy,expensive,sustainable,delicious,economical
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or hangover food
+",healthy,healthy,expensive,sustainable,delicious,affordable
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or Pastry heart
+",healthy,healthy,expensive,sustainable,effective,delicious
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or preserved food
+",healthy,healthy,sustainable,expensive,reliable,useful
+"Which is more nutritious, and thus more [MASK], non-vegetarian food or Vegetable Handva
+",healthy,healthy,sustainable,expensive,effective,economical
+"Which is more nutritious, and thus more [MASK], Pastry heart or Žemaitiškas kastinys
+",healthy,healthy,expensive,sweet,delicious,bitter
+"Which is more nutritious, and thus more [MASK], Pastry heart or Bacon Deluxe
+",healthy,healthy,delicious,expensive,robust,sweet
+"Which is more nutritious, and thus more [MASK], Pastry heart or Bath Oliver
+",healthy,healthy,delicious,expensive,robust,sweet
+"Which is more nutritious, and thus more [MASK], Pastry heart or Berger Cookies
+",healthy,healthy,delicious,expensive,sweet,effective
+"Which is more nutritious, and thus more [MASK], Pastry heart or Boiled Bean
+",healthy,healthy,expensive,delicious,productive,bitter
+"Which is more nutritious, and thus more [MASK], Pastry heart or Braised Chicken
+",healthy,healthy,productive,expensive,robust,tender
+"Which is more nutritious, and thus more [MASK], Pastry heart or Bread warmer
+",healthy,healthy,reliable,expensive,delicious,effective
+"Which is more nutritious, and thus more [MASK], Pastry heart or Burger Rings
+",healthy,healthy,expensive,delicious,robust,reliable
+"Which is more nutritious, and thus more [MASK], Pastry heart or care package
+",healthy,healthy,effective,expensive,reliable,efficient
+"Which is more nutritious, and thus more [MASK], Pastry heart or Chin chin
+",healthy,healthy,delicious,sweet,robust,expensive
+"Which is more nutritious, and thus more [MASK], Pastry heart or Country Captain
+",healthy,healthy,delicious,sweet,robust,bitter
+"Which is more nutritious, and thus more [MASK], Pastry heart or Eggs Neptune
+",healthy,healthy,delicious,expensive,sweet,bitter
+"Which is more nutritious, and thus more [MASK], Pastry heart or Fat Boy
+",healthy,healthy,delicious,expensive,sweet,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or Flies graveyard
+",healthy,healthy,delicious,expensive,sweet,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or Food Lion
+",healthy,healthy,delicious,expensive,effective,reliable
+"Which is more nutritious, and thus more [MASK], Pastry heart or functional food
+",healthy,healthy,reliable,expensive,efficient,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or Happy Faces
+",healthy,healthy,delicious,sweet,robust,bitter
+"Which is more nutritious, and thus more [MASK], Pastry heart or Happy Turn
+",healthy,healthy,delicious,sweet,productive,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or human food
+",healthy,healthy,delicious,expensive,reliable,sweet
+"Which is more nutritious, and thus more [MASK], Pastry heart or Imperial Mandarin
+",healthy,healthy,delicious,sweet,expensive,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or Jam Roly-Poly
+",healthy,healthy,expensive,effective,robust,delicious
+"Which is more nutritious, and thus more [MASK], Pastry heart or Krishna Pauroti
+",healthy,healthy,robust,expensive,reliable,productive
+"Which is more nutritious, and thus more [MASK], Pastry heart or Kue precet
+",healthy,healthy,sweet,delicious,bitter,expensive
+"Which is more nutritious, and thus more [MASK], Pastry heart or Lap lap
+",healthy,healthy,expensive,reliable,robust,effective
+"Which is more nutritious, and thus more [MASK], Pastry heart or Liver spread
+",healthy,healthy,reliable,effective,efficient,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or living fish
+",healthy,healthy,edible,delicious,abundant,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or man reman
+",healthy,healthy,delicious,productive,fertile,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or Misal Pav
+",healthy,healthy,delicious,expensive,sweet,effective
+"Which is more nutritious, and thus more [MASK], Pastry heart or non-vegetarian food
+",healthy,healthy,delicious,expensive,sweet,reliable
+"Which is more nutritious, and thus more [MASK], Pastry heart or Oil Down
+",healthy,healthy,expensive,delicious,robust,reliable
+"Which is more nutritious, and thus more [MASK], Pastry heart or Pizza Rolls
+",healthy,healthy,delicious,expensive,sweet,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or Polish Boy
+",healthy,healthy,expensive,delicious,sweet,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or preserved food
+",healthy,healthy,delicious,reliable,sweet,expensive
+"Which is more nutritious, and thus more [MASK], Pastry heart or Red Rice
+",healthy,healthy,delicious,expensive,sweet,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or Rose Cookies
+",healthy,healthy,delicious,sweet,expensive,effective
+"Which is more nutritious, and thus more [MASK], Pastry heart or shave ice
+",healthy,healthy,expensive,bitter,sweet,delicious
+"Which is more nutritious, and thus more [MASK], Pastry heart or Slow Bread
+",healthy,healthy,delicious,sweet,expensive,bitter
+"Which is more nutritious, and thus more [MASK], Pastry heart or Soto Bogor
+",healthy,healthy,delicious,sweet,expensive,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or space food
+",healthy,healthy,expensive,delicious,robust,sweet
+"Which is more nutritious, and thus more [MASK], Pastry heart or stuffed intestines
+",healthy,healthy,expensive,robust,reliable,sensitive
+"Which is more nutritious, and thus more [MASK], Pastry heart or Thala Guli
+",healthy,healthy,expensive,reliable,productive,robust
+"Which is more nutritious, and thus more [MASK], Pastry heart or uih sepit
+",healthy,healthy,expensive,delicious,productive,effective
+"Which is more nutritious, and thus more [MASK], Pastry heart or Vegetable Handva
+",healthy,healthy,productive,robust,delicious,beneficial
+"Which is more nutritious, and thus more [MASK], Pastry heart or White Christmas
+",healthy,healthy,delicious,sweet,expensive,bitter
+"Which is more nutritious, and thus more [MASK], pig skin or Braised Chicken
+",healthy,healthy,acidic,expensive,tender,fertile
+"Which is more nutritious, and thus more [MASK], pig skin or Pastry heart
+",healthy,healthy,acidic,expensive,robust,sensitive
+"Which is more nutritious, and thus more [MASK], pig skin or shelf-stable food
+",healthy,healthy,expensive,acidic,stable,robust
+"Which is more nutritious, and thus more [MASK], Vegetable Handva or Pastry heart
+",healthy,healthy,productive,delicious,robust,beneficial
+"Which is more nutritious, and thus more [MASK], vegetarian food or hangover food
+",healthy,healthy,expensive,sustainable,delicious,affordable
+"Which is more nutritious, and thus more [MASK], vegetarian food or Pastry heart
+",healthy,healthy,sustainable,expensive,delicious,effective
+"Which is more nutritious, and thus more [MASK], vegetarian food or preserved food
+",healthy,healthy,sustainable,expensive,abundant,reliable
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Los Teques
+",humid,humid,beaches,inland,rain,rainfall
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Ban Houayxay
+",humid,humid,rain,rainfall,inland,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Morant Bay
+",humid,humid,fertile,rain,rainfall,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Greater Noida
+",humid,humid,rain,rainfall,fertile,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or San Pedro
+",humid,humid,rain,rainfall,rivers,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Itō, Shizuoka
+",humid,humid,rain,rainfall,beaches,abundant
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or San José
+",humid,humid,rain,rainfall,rivers,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Coronel Suárez
+",humid,humid,rain,rainfall,fertile,coffee
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or New Alamein
+",humid,humid,rain,rainfall,fertile,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Abu Qir
+",humid,humid,rain,rainfall,fertile,coffee
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Carlisle, Cumbria
+",humid,humid,rainfall,rain,fertile,abundant
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Khan Yunis
+",humid,humid,rain,rainfall,fertile,abundant
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Nowe Warpno
+",humid,humid,rain,rainfall,beaches,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or New Asyut
+",humid,humid,rain,fertile,rainfall,coffee
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Ciudad Mier
+",humid,humid,rain,rainfall,inland,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Mount Gambier
+",humid,humid,rain,rainfall,beaches,coffee
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Altai City
+",humid,humid,rain,rainfall,fertile,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Ross Béthio
+",humid,humid,rainfall,rain,fertile,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Kuwait City
+",humid,humid,rain,rainfall,beaches,coffee
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Brown's Town
+",humid,humid,rain,rainfall,fertile,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Oued Zem
+",humid,humid,rainfall,rain,fertile,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Tainan City
+",humid,humid,rain,rainfall,rivers,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Bani Suheila
+",humid,humid,rain,rainfall,beaches,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or River Cess
+",humid,humid,fertile,rain,rainfall,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or San Sixto
+",humid,humid,rain,rainfall,beaches,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Thủ Đức
+",humid,humid,rain,fertile,rainfall,mountainous
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Don Torcuato
+",humid,humid,beaches,rain,rainfall,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Chowk Azam
+",humid,humid,rain,rainfall,fertile,maize
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Bani Walid
+",humid,humid,rain,rainfall,fertile,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Ar Rayn
+",humid,humid,rain,rainfall,fertile,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Ben Slimane
+",humid,humid,fertile,rain,rainfall,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Cuatro Cañadas
+",humid,humid,rain,beaches,rainfall,coffee
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Mian Sahib
+",humid,humid,rain,rainfall,fertile,abundant
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Prince George
+",humid,humid,rain,rainfall,beaches,coffee
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Balel Pipariya
+",humid,humid,rain,beaches,coffee,rainfall
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Brzeg Dolny
+",humid,humid,rain,snow,villages,rivers
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Fengtian Fu
+",humid,humid,rain,rainfall,fertile,abundant
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Beach Cities
+",humid,humid,rain,rainfall,fertile,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or San Diego
+",humid,humid,rain,rainfall,beaches,rivers
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Juan Griego
+",humid,humid,rain,beaches,rainfall,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Marcos Juárez
+",humid,humid,rain,rainfall,fertile,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Thunder Bay
+",humid,humid,rain,rainfall,rivers,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Chilca, Cañete
+",humid,humid,beaches,rainfall,rain,rivers
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Yaguachi Nuevo
+",humid,humid,rain,maize,rainfall,rivers
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Medina Elvira
+",humid,humid,rainfall,rain,beaches,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Niagara Falls
+",humid,humid,rain,rainfall,rivers,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or La Victoria
+",humid,humid,rainfall,rain,fertile,rivers
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or San Salvador
+",humid,humid,rain,rainfall,rivers,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Herceg Novi
+",humid,humid,rain,rainfall,beaches,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Nowy Tomyśl
+",humid,humid,rain,rainfall,precipitation,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Port Loko
+",humid,humid,rain,rainfall,inland,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or La Monaria
+",humid,humid,rainfall,rain,inland,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or La Higuera
+",humid,humid,rain,rainfall,beaches,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or The Line
+",humid,humid,rainfall,rain,beaches,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Upper Hutt
+",humid,humid,rainfall,fertile,rain,rivers
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Burton, Texas
+",humid,humid,rainfall,rain,fertile,precipitation
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Lancaster, Lancashire
+",humid,humid,rainfall,rain,fertile,precipitation
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Ciudad Rodrigo
+",humid,humid,rainfall,rain,beaches,rivers
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or San Lorenzo
+",humid,humid,rain,rainfall,rivers,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Bahía Honda
+",humid,humid,rain,rainfall,fertile,maize
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Palos Blancos
+",humid,humid,rain,beaches,rainfall,rivers
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Bahir Dar
+",humid,humid,rain,rainfall,beaches,maize
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or May Pen
+",humid,humid,rain,rainfall,fertile,abundant
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Piedra Blanca
+",humid,humid,rainfall,rain,fertile,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Dargan Ata
+",humid,humid,rain,rainfall,fertile,rivers
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Muang Xay
+",humid,humid,rain,beaches,fertile,rainfall
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Puerto Suárez
+",humid,humid,rain,inland,rainfall,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Las Lomitas
+",humid,humid,rain,rainfall,beaches,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or San Cristóbal
+",humid,humid,rain,beaches,rainfall,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Hervey Bay
+",humid,humid,beaches,rainfall,rain,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Pasir Gudang
+",humid,humid,rain,maize,abundant,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Mian Channu
+",humid,humid,rainfall,rain,fertile,beaches
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or El Parco
+",humid,humid,rain,beaches,rainfall,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Alba Bastetanorum
+",humid,humid,rainfall,abundant,rain,fertile
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Coswig, Saxony
+",humid,humid,rain,rainfall,precipitation,snow
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Old Delhi
+",humid,humid,rain,rainfall,fertile,abundant
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or Cerro Boyero
+",humid,humid,rain,rainfall,beaches,inland
+"Which has more rainfall, and thus more [MASK], Cuenca, Ecuador or La Troncal
+",humid,humid,rain,rainfall,beaches,fertile
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or New Alamein
+",humid,humid,rainfall,fertile,rain,precipitation
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or Carlisle, Cumbria
+",humid,humid,rainfall,abundant,fertile,precipitation
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or Prince George
+",humid,humid,rainfall,fertile,abundant,rain
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or Fengtian Fu
+",humid,humid,rainfall,rain,precipitation,abundant
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or Beach Cities
+",humid,humid,fertile,abundant,rainfall,rain
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or Upper Hutt
+",humid,humid,rainfall,fertile,precipitation,abundant
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or Burton, Texas
+",humid,humid,rainfall,rain,precipitation,abundant
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or Lancaster, Lancashire
+",humid,humid,rainfall,rain,fertile,abundant
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or Palos Blancos
+",humid,humid,rainfall,rain,abundant,fertile
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or May Pen
+",humid,humid,fertile,rainfall,abundant,rain
+"Which has more rainfall, and thus more [MASK], Yaguachi Nuevo or Old Delhi
+",humid,humid,fertile,abundant,rainfall,rain
+"Which has more rainfall, and thus more [MASK], Burton, Texas or Fengtian Fu
+",humid,humid,rainfall,rain,fertile,precipitation
+"Which has more rainfall, and thus more [MASK], Coswig, Saxony or Puerto Suárez
+",humid,humid,rain,precipitation,snow,fertile
+"Which has more rainfall, and thus more [MASK], Coswig, Saxony or Alba Bastetanorum
+",humid,humid,fertile,rain,precipitation,rainfall
+"Which has more rainfall, and thus more [MASK], Cerro Boyero or Carlisle, Cumbria
+",humid,humid,rainfall,precipitation,fertile,rain
