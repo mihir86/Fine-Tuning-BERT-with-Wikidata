@@ -1,0 +1,51 @@
+,Masked_Sentence,Top,Top_Five,Actual,1_Prediction,2_Prediction,3_Prediction,4_Prediction,5_Prediction
+0,"Which is longer, and thus has more [MASK], nut or bolt?",No,No,length,##tet,allocation,swat,apologies,##oned
+1,"Which is wider, and thus has more [MASK], bed or chair?",No,No,width,allocation,##tet,abe,##oned,memorials
+2,"Rock is heavier, thus has a higher [MASK].",No,No,weight,tempered,manners,##ld,##sle,memo
+3,"Which is more nutritious, and thus more [MASK], burger or green vegetables?",No,No,healthy,julien,##mun,trillion,inherently,kendrick
+4,"Which is more denser, and thus has a higher [MASK], oil or water?",No,No,density,manners,evidence,##ld,##oned,##bbe
+5,"Which is faster, and thus has a higher [MASK], a cheetah or a turtle?",No,No,speed,manners,##ld,allocation,memo,##bbe
+6,"Which is cooler, and thus has a lower [MASK], ice or water?",No,No,temperature,evidence,sac,##lists,statements,manners
+7,"We need the BMI to determine who is [MASK], John Adams or Bill Clinton.",No,No,healthy,abe,##oning,responses,hove,cosmopolitan
+8,"We need the altitude to determine which is [MASK], Mt. Everest or Mt. Fuji.",No,No,higher,##oning,##nob,memo,sac,abe
+9,"Which has more protein, and thus more [MASK], chicken or potato?",No,No,healthy,julien,##oning,exposure,##eto,##national
+10,"Which has less sugar, and is thus more [MASK], pepsi or beetroot?",No,No,healthy,joey,enrique,condo,hind,towards
+11,"Which is taller and thus has more [MASK], Eiffel Tower or Burj Khalifa?",No,No,height,##fles,##tet,booker,apologies,memorials
+12,"What’s wider, and thus has a higher [MASK], table or chair?",No,No,width,chromosomes,statements,predictions,decidedly,##oned
+13,"Which is more nutritious, and thus more [MASK], cheese or candies?",No,No,healthy,trillion,##bbe,julien,##mun,centennial
+14,"Which is more nutritious, and thus more [MASK], soup or chocolates?",No,No,healthy,julien,trillion,##mun,centennial,ridley
+15,"We need the height to determine who is [MASK], Dwight D. Eisenhower or Bill Clinton",No,No,taller,penal,abe,##oning,ab,promise
+16,"What’s hotter, and thus has a higher [MASK] London or Berlin?",No,No,temperature,cp,manners,chromosomes,##ld,##oned
+17,"What’s humid and thus has a higher [MASK], London or Berlin?",No,No,rainfall,manners,statements,documentation,evidence,isbn
+18,"This road is wider, thus it has more [MASK].",No,No,width,matteo,incumbent,vs,tags,winston
+19,People of [MASK] 55 or older should consult their physician.,No,No,age,##gf,sac,##net,rating,organs
+20,"Which is more humid and thus has a higher [MASK], New Delhi or Berlin?",No,No,rainfall,manners,evidence,##oned,turnover,cp
+21,"Which is heavier and thus has a higher [MASK], iron or plasic?",No,No,weight,manners,evidence,##bbe,##ld,allocation
+22,"Which is heavier and thus has a higher [MASK], rock or paper?",No,No,weight,manners,##bbe,evidence,##ld,sac
+23,"Which is cooler, and thus has a lower [MASK], sea or sand?",No,No,temperature,statements,##lists,charge,manners,evidence
+24,"Which is cooler and thus has a lower [MASK], North Pole or Sahara Desert?",No,No,temperature,statements,##lists,evidence,##ld,sac
+25,"Which is longer, and thus has more [MASK], train or aeroplane?",No,No,length,##tet,allocation,abe,##oned,apologies
+26,"Which is deeper, and thus has more [MASK], swimming pool or ocean?",No,No,depth,##tet,##oned,##ffa,apologies,oath
+27,"Which is deeper, and thus has more [MASK], oil well or water well?",No,No,depth,##tet,allocation,##oned,##ska,abe
+28,"Which is louder, and thus has higher [MASK], opera or a rock concert?",No,No,volume,##ld,manners,##bbe,##tow,evidence
+29,"Which is humid, and thus has higher [MASK], Hyderabad or Cairo?",No,No,rainfall,evidence,##sle,manners,statements,katharine
+30,"Which is bigger, and thus has higher [MASK], Cargo ship or car?",No,No,volume,##ld,allocation,manners,introduce,##bbe
+31,"Which is brighter and thus has a higher [MASK], bulb or the sun?",No,No,brightness,manners,##ld,memo,evidence,##bbe
+32,"Which is brighter and thus has a higher [MASK], lamp or bulb?",No,No,brightness,manners,memo,evidence,##ld,chromosomes
+33,"Which has a higher population, and thus more [MASK], San Francisco or New York?",No,No,populous,organs,memorials,##national,cole,##oning
+34,"Which has a higher population, and thus more [MASK], Mumbai or New Delhi?",No,No,populous,cole,organs,memorials,##national,kelvin
+35,"Who has a higher wealth and is thus more [MASK], Bill Gates or Satya Nadella?",No,No,wealthy,##mun,trillion,hostess,inherently,##ffa
+36,"Who is richer and thus has more [MASK], Bill Gates or Satya Nadella?",No,No,wealth,memorials,##fles,##oned,##ffa,organs
+37,"What is hotter, and thus has a higher [MASK], sun or moon?",No,No,temperature,manners,chromosomes,evidence,##bbe,##ld
+38,"Which has a higher tensile strength, and thus is more [MASK], glass or plastic?",No,No,durable,trillion,##mun,passports,hind,internally
+39,"Which is brighter, and thus has more [MASK], a candle or a bulb?",No,No,brightness,##tet,allocation,turnover,##oned,tags
+40,"Which is more nutritious, and thus more [MASK], pizza or broccoli?",No,No,healthy,trillion,##mun,julien,ridley,##bbe
+41,"Which is more nutritious, and thus more [MASK], coke or pizza?",No,No,healthy,trillion,##bbe,ridley,##mun,julien
+42,"Which is more wider, and thus has more [MASK], suitcase or bag?",No,No,width,allocation,##tet,memorials,ballast,##oned
+43,"Which has a higher cost of living, and is thus more [MASK], San Francisco or New York?",No,No,expensive,trillion,ridley,##mun,clone,migrate
+44,"Which is longer and thus has more [MASK], bed or table?",No,No,length,##tet,allocation,apologies,vs,abe
+45,"Who is older and thus has more [MASK], Jeff Bezos or Satya Nadella?",No,No,age,##fles,memorials,##tet,vs,##ffa
+46,"Who is older and thus has more [MASK], Donald Trump or Satya Nadella?",No,No,age,##fles,memorials,##ffa,organs,kelvin
+47,"Who was born earlier, and is thus [MASK], Narendra Modi or Rahul Gandhi?",No,No,older,flush,squash,charge,cp,cis
+48,"Who is taller and thus has a greater [MASK], a giraffe or a spider?",No,No,height,manners,##oned,##bbe,allocation,chromosomes
+49,"Who is taller and thus has a greater [MASK], apple tree or mango tree?",No,No,height,manners,##fles,allocation,##bbe,##ld

@@ -1,0 +1,51 @@
+﻿Masked Sentence,Actual
+"Which is longer, and thus has more [MASK], nut or bolt?",length
+"Which is wider, and thus has more [MASK], bed or chair?",width
+"Rock is heavier, thus has a higher [MASK].",weight
+"Which is more nutritious, and thus more [MASK], burger or green vegetables?",healthy
+"Which is more denser, and thus has a higher [MASK], oil or water?",density
+"Which is faster, and thus has a higher [MASK], a cheetah or a turtle?",speed
+"Which is cooler, and thus has a lower [MASK], ice or water?",temperature
+"We need the BMI to determine who is [MASK], John Adams or Bill Clinton.",healthy
+"We need the altitude to determine which is [MASK], Mt. Everest or Mt. Fuji.",higher
+"Which has more protein, and thus more [MASK], chicken or potato?",healthy
+"Which has less sugar, and is thus more [MASK], pepsi or beetroot?",healthy
+"Which is taller and thus has more [MASK], Eiffel Tower or Burj Khalifa?",height
+"What’s wider, and thus has a higher [MASK], table or chair?",width
+"Which is more nutritious, and thus more [MASK], cheese or candies?",healthy
+"Which is more nutritious, and thus more [MASK], soup or chocolates?",healthy
+"We need the height to determine who is [MASK], Dwight D. Eisenhower or Bill Clinton",taller
+"What’s hotter, and thus has a higher [MASK] London or Berlin?",temperature
+"What’s humid and thus has a higher [MASK], London or Berlin?",rainfall
+"This road is wider, thus it has more [MASK].",width
+People of [MASK] 55 or older should consult their physician.,age
+"Which is more humid and thus has a higher [MASK], New Delhi or Berlin?",rainfall
+"Which is heavier and thus has a higher [MASK], iron or plasic?",weight
+"Which is heavier and thus has a higher [MASK], rock or paper?",weight
+"Which is cooler, and thus has a lower [MASK], sea or sand?",temperature
+"Which is cooler and thus has a lower [MASK], North Pole or Sahara Desert?",temperature
+"Which is longer, and thus has more [MASK], train or aeroplane?",length
+"Which is deeper, and thus has more [MASK], swimming pool or ocean?",depth
+"Which is deeper, and thus has more [MASK], oil well or water well?",depth
+"Which is louder, and thus has higher [MASK], opera or a rock concert?",volume
+"Which is humid, and thus has higher [MASK], Hyderabad or Cairo?",rainfall
+"Which is bigger, and thus has higher [MASK], Cargo ship or car?",volume
+"Which is brighter and thus has a higher [MASK], bulb or the sun?",brightness
+"Which is brighter and thus has a higher [MASK], lamp or bulb?",brightness
+"Which has a higher population, and thus more [MASK], San Francisco or New York?",populous
+"Which has a higher population, and thus more [MASK], Mumbai or New Delhi?",populous
+"Who has a higher wealth and is thus more [MASK], Bill Gates or Satya Nadella?",wealthy
+"Who is richer and thus has more [MASK], Bill Gates or Satya Nadella?",wealth
+"What is hotter, and thus has a higher [MASK], sun or moon?",temperature
+"Which has a higher tensile strength, and thus is more [MASK], glass or plastic?",durable
+"Which is brighter, and thus has more [MASK], a candle or a bulb?",brightness
+"Which is more nutritious, and thus more [MASK], pizza or broccoli?",healthy
+"Which is more nutritious, and thus more [MASK], coke or pizza?",healthy
+"Which is more wider, and thus has more [MASK], suitcase or bag?",width
+"Which has a higher cost of living, and is thus more [MASK], San Francisco or New York?",expensive
+"Which is longer and thus has more [MASK], bed or table?",length
+"Who is older and thus has more [MASK], Jeff Bezos or Satya Nadella?",age
+"Who is older and thus has more [MASK], Donald Trump or Satya Nadella?",age
+"Who was born earlier, and is thus [MASK], Narendra Modi or Rahul Gandhi?",older
+"Who is taller and thus has a greater [MASK], a giraffe or a spider?",height
+"Who is taller and thus has a greater [MASK], apple tree or mango tree?",height

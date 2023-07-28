@@ -1,0 +1,51 @@
+,Masked_Sentence,Top,Top_Five,Actual,1_Prediction,2_Prediction,3_Prediction,4_Prediction,5_Prediction
+0,"Which is longer, and thus has more <mask>, nut or bolt?",No,No,length,weight,teeth,holes,force,leverage
+1,"Which is wider, and thus has more <mask>, bed or chair?",No,No,width,room,space,support,height,angles
+2,"Rock is heavier, thus has a higher <mask>.",No,No,weight,density,gravity,resistance,value,mass
+3,"Which is more nutritious, and thus more <mask>, burger or green vegetables?",No,No,healthy,nutritious,popular,delicious,desirable,appealing
+4,"Which is more denser, and thus has a higher <mask>, oil or water?",Yes,Yes,density,density,pressure,temperature,volume,price
+5,"Which is faster, and thus has a higher <mask>, a cheetah or a turtle?",No,Yes,speed,score,IQ,intelligence,speed,value
+6,"Which is cooler, and thus has a lower <mask>, ice or water?",Yes,Yes,temperature,temperature,density,gravity,volume,mass
+7,"We need the BMI to determine who is <mask>, John Adams or Bill Clinton.",No,No,healthy,better,president,worse,right,stronger
+8,"We need the altitude to determine which is <mask>, Mt. Everest or Mt. Fuji.",Yes,Yes,higher,higher,better,greater,lower,taller
+9,"Which has more protein, and thus more <mask>, chicken or potato?",No,No,healthy,energy,calories,protein,fat,nutrients
+10,"Which has less sugar, and is thus more <mask>, pepsi or beetroot?",No,Yes,healthy,nutritious,healthy,bitter,delicious,potent
+11,"Which is taller and thus has more <mask>, Eiffel Tower or Burj Khalifa?",No,No,height,visitors,tourists,views,traffic,people
+12,"What’s wider, and thus has a higher <mask>, table or chair?",No,No,width,floor,shelf,bench,bed,counter
+13,"Which is more nutritious, and thus more <mask>, cheese or candies?",No,No,healthy,delicious,nutritious,desirable,popular,expensive
+14,"Which is more nutritious, and thus more <mask>, soup or chocolates?",No,No,healthy,delicious,nutritious,desirable,appealing,expensive
+15,"We need the height to determine who is <mask>, Dwight D. Eisenhower or Bill Clinton",Yes,Yes,taller,taller,president,who,President,it
+16,"What’s hotter, and thus has a higher <mask> London or Berlin?",Yes,Yes,temperature,temperature,,percentage,rating,
+17,"What’s humid and thus has a higher <mask>, London or Berlin?",No,No,rainfall,temperature,humidity,index,IQ,BMI
+18,"This road is wider, thus it has more <mask>.",No,No,width,traffic,room,curves,space,surface
+19,People of <mask> 55 or older should consult their physician.,Yes,Yes,age,age,ages,,aged,years
+20,"Which is more humid and thus has a higher <mask>, New Delhi or Berlin?",No,Yes,rainfall,temperature,humidity,population,density,rainfall
+21,"Which is heavier and thus has a higher <mask>, iron or plasic?",No,No,weight,density,charge,mass,value,yield
+22,"Which is heavier and thus has a higher <mask>, rock or paper?",No,Yes,weight,density,weight,mass,resistance,volume
+23,"Which is cooler, and thus has a lower <mask>, sea or sand?",No,Yes,temperature,density,temperature,pH,gravity,surface
+24,"Which is cooler and thus has a lower <mask>, North Pole or Sahara Desert?",Yes,Yes,temperature,temperature,altitude,humidity,elevation,density
+25,"Which is longer, and thus has more <mask>, train or aeroplane?",No,No,length,passengers,seats,fuel,power,speed
+26,"Which is deeper, and thus has more <mask>, swimming pool or ocean?",No,Yes,depth,water,depth,oxygen,volume,fish
+27,"Which is deeper, and thus has more <mask>, oil well or water well?",No,Yes,depth,water,depth,oil,potential,pressure
+28,"Which is louder, and thus has higher <mask>, opera or a rock concert?",No,No,volume,ratings,quality,impact,energy,attendance
+29,"Which is humid, and thus has higher <mask>, Hyderabad or Cairo?",No,Yes,rainfall,humidity,temperatures,rainfall,temperature,prices
+30,"Which is bigger, and thus has higher <mask>, Cargo ship or car?",No,No,volume,speed,speeds,capacity,weight,value
+31,"Which is brighter and thus has a higher <mask>, bulb or the sun?",No,Yes,brightness,point,brightness,contrast,intensity,temperature
+32,"Which is brighter and thus has a higher <mask>, lamp or bulb?",No,Yes,brightness,contrast,brightness,value,magnification,intensity
+33,"Which has a higher population, and thus more <mask>, San Francisco or New York?",No,No,populous,jobs,money,density,wealth,resources
+34,"Which has a higher population, and thus more <mask>, Mumbai or New Delhi?",No,No,populous,money,jobs,resources,influence,development
+35,"Who has a higher wealth and is thus more <mask>, Bill Gates or Satya Nadella?",No,No,wealthy,powerful,influential,important,valuable,popular
+36,"Who is richer and thus has more <mask>, Bill Gates or Satya Nadella?",No,No,wealth,power,influence,money,clout,leverage
+37,"What is hotter, and thus has a higher <mask>, sun or moon?",Yes,Yes,temperature,temperature,temp,heat,energy,value
+38,"Which has a higher tensile strength, and thus is more <mask>, glass or plastic?",Yes,Yes,durable,durable,flexible,stable,brittle,robust
+39,"Which is brighter, and thus has more <mask>, a candle or a bulb?",No,No,brightness,light,power,energy,heat,glow
+40,"Which is more nutritious, and thus more <mask>, pizza or broccoli?",No,No,healthy,nutritious,delicious,popular,appealing,desirable
+41,"Which is more nutritious, and thus more <mask>, coke or pizza?",No,No,healthy,delicious,popular,nutritious,appealing,desirable
+42,"Which is more wider, and thus has more <mask>, suitcase or bag?",No,No,width,room,space,volume,weight,storage
+43,"Which has a higher cost of living, and is thus more <mask>, San Francisco or New York?",Yes,Yes,expensive,expensive,affordable,desirable,attractive,competitive
+44,"Which is longer and thus has more <mask>, bed or table?",No,No,length,space,room,legs,storage,angles
+45,"Who is older and thus has more <mask>, Jeff Bezos or Satya Nadella?",No,No,age,experience,time,influence,clout,money
+46,"Who is older and thus has more <mask>, Donald Trump or Satya Nadella?",No,No,age,experience,time,money,wisdom,energy
+47,"Who was born earlier, and is thus <mask>, Narendra Modi or Rahul Gandhi?",No,Yes,older,younger,older,wiser,superior,better
+48,"Who is taller and thus has a greater <mask>, a giraffe or a spider?",No,No,height,advantage,reach,head,power,reputation
+49,"Who is taller and thus has a greater <mask>, apple tree or mango tree?",No,Yes,height,yield,circumference,height,diameter,reach
